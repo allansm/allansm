@@ -1,11 +1,8 @@
 <h2 style='font-color:#09f'>- Hi, I’m Allan</h2>
 <div style="width:100%;display:block">
   <img width="100%" src="https://ghchart.rshah.org/00ff00/allansm" /><br/><br/>
-  <!--img height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=allansm&title_color=0f0&bg_color=000000&text_color=0f0&layout=compact&langs_count=10&hide_border=true&hide=html,shaderlab,css,tcl,tsql,hlsl,vue,powershell,shell,batchfile&exclude_repo=UnityMultiplayerStudyTest,Unity3DStudy,Unity2DFrameByFrameTest,Unity-Study-Project" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=allansm&title_color=0f0&bg_color=000000&text_color=0f0&include_all_commits=true&count_private=true&show_owner=true&hide_border=true" /-->
-  <!-- img src="https://metrics.lecoq.io/allansm?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&activity=1&achievements=1&lines=1&stars=1&isocalendar.duration=full-year&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo" /-->
    
-  <img width="32.5%" src="https://allansm.000webhostapp.com/git-langs/lang/?lang=Python&user=allansm&ilangs=Batchfile;TSQL;Vue;Tcl;PowerShell;HTML;CSS;HLSL;ShaderLab;Shell&iprojects=Unity-Study-Project;Unity2DFrameByFrameTest;UnityMultiplayerStudyTest;Unity3DStudy&color=0f0&background=000&color2=111"> 
+  <img width="32.5%" src="https://allansm.000webhostapp.com/git-langs/lang/?lang=Python&user=allansm&ilangs=Batchfile;TSQL;Vue;Tcl;PowerShell;HTML;CSS;HLSL;ShaderLab;Shell&iprojects=Unity-Study-Project;Unity2DFrameByFrameTest;UnityMultiplayerStudyTest;Unity3DStudy&color=0f0&background=000&color2=111&q=true"> 
   <img width="32.5%" src="https://allansm.000webhostapp.com/git-langs/lang/?lang=Java&user=allansm&ilangs=Batchfile;TSQL;Vue;Tcl;PowerShell;HTML;CSS;HLSL;ShaderLab;Shell&iprojects=Unity-Study-Project;Unity2DFrameByFrameTest;UnityMultiplayerStudyTest;Unity3DStudy&color=0f0&background=000&color2=111">
   <img width="32.5%" src="https://allansm.000webhostapp.com/git-langs/lang/?lang=PHP&user=allansm&ilangs=Batchfile;TSQL;Vue;Tcl;PowerShell;HTML;CSS;HLSL;ShaderLab;Shell&iprojects=Unity-Study-Project;Unity2DFrameByFrameTest;UnityMultiplayerStudyTest;Unity3DStudy&color=0f0&background=000&color2=111">
   
