@@ -1,6 +1,6 @@
 <h2 style='font-color:#09f'>- Hi, I’m Allan</h2>
 <div style="width:100%;display:block">
-  <img width="100%" src="https://ghchart.rshah.org/00ff00/allansm" /><br/><br/>
+  <img width="100%" src="https://allansm.000webhostapp.com/git-profile/last-year/?user=allansm&color=0f0&background=000" />
    
   <img width="32.5%" src="https://allansm.000webhostapp.com/git-langs/lang/?lang=Python&user=allansm&ilangs=Batchfile;TSQL;Vue;Tcl;PowerShell;HTML;CSS;HLSL;ShaderLab;Shell&iprojects=Unity-Study-Project;Unity2DFrameByFrameTest;UnityMultiplayerStudyTest;Unity3DStudy&color=0f0&background=000&color2=111&q=true"> 
   <img width="32.5%" src="https://allansm.000webhostapp.com/git-langs/lang/?lang=Java&user=allansm&ilangs=Batchfile;TSQL;Vue;Tcl;PowerShell;HTML;CSS;HLSL;ShaderLab;Shell&iprojects=Unity-Study-Project;Unity2DFrameByFrameTest;UnityMultiplayerStudyTest;Unity3DStudy&color=0f0&background=000&color2=111">
