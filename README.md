@@ -6,10 +6,4 @@
   
   <img src="https://allansm.000webhostapp.com/git-profile/last-contributions?user=allansm&color=00ff00&background=000000" width="49%" />
   <img src="https://allansm.000webhostapp.com/git-profile/activity?user=allansm&color=00ff00&background=000000" width="49%" />
-  
-  <br/><br/>
-  
-  <img src="https://badges.pufler.dev/years/allansm">
-  <img src="https://badges.pufler.dev/repos/allansm">
-  <img src="https://badges.pufler.dev/visits/allansm/allansm">
 </div>
